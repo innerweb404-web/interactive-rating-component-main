@@ -45,7 +45,7 @@ Users should be able to:
 
 ### Links
 
-* **Solution URL:** [GitHub Repository](https://github.com/yourusername/interactive-rating-component)
+* **Solution URL:** [GitHub Repository](https://github.com/innerweb404-web/interactive-rating-component-main.git)
 * **Live Site URL:** [View Live Project](https://your-username.github.io/interactive-rating-component/)
 
 ---
