@@ -116,7 +116,7 @@ form.addEventListener('submit', e => {
 ## Author
 
 * **Name:** Bright AG
-* **Frontend Mentor:** [@brightWeb_3](https://www.frontendmentor.io/profile/brightWeb_3)
+* **Frontend Mentor:** [@innerweb404-web]([https://www.frontendmentor.io/profile/brightWeb_3](https://www.frontendmentor.io/profile/innerweb404-web))
 * **Twitter:** [@brightWeb_3](https://twitter.com/brightWeb_3)
 
 
