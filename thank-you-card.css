@@ -1,0 +1,20 @@
+
+.container {
+    justify-content: center;
+    align-items: center;
+    padding: 2rem auto;
+    text-align: center;
+}
+
+.message p{
+    background-color: hsl(213, 20%, 20%);
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    color: hsl(25, 97%, 53%);
+}
+
+main .thank-you-message{
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 1rem;
+}
